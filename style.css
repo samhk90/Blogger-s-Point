@@ -42,6 +42,9 @@ body{
     border-bottom: solid 3px #333;
 
 }
+#navbar{
+    background-color: #f4f4f434;
+}
 .bg{
     padding: 250px;
 
